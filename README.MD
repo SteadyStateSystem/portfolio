@@ -1,7 +1,7 @@
 # My Portfolio
 
 URL
-https://juanruedam.github.io/portfolio/
+https://junior-portfolio.steadystatesystem.com/
 
 Welcome to my portfolio! I've developed this webpage using React and SaSS. Here, I proudly present a collection of my diverse projects that highlight my skills and passion. Each project reflects my dedication and growth as a developer, encapsulating innovation and functionality. Enjoy your journey through my world of web development!
 
